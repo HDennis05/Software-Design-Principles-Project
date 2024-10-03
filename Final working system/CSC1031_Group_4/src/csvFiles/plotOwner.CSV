@@ -1,0 +1,6 @@
+userID, name, password, phoneNo, email, banned, plots
+1, Adam, Password1, 07482047562, adam123@gmail.com, false, 0, 
+2, Simon, Password2, 07482047562, simon456@gmail.com, false, 1, 
+3, Hannah, Password3, 07482047562, hannah789@gmail.com, false, 2, 
+4, Peter, Password4, 07482047562, peter012@gmail.com, false, 3, 
+5, Luke, Password5, 07482047562, luke345@gmail.com, false, 4, 
