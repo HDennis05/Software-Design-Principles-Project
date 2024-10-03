@@ -21,6 +21,5 @@ Our final application allowed for different user views:\
 • Application Functionality: I worked on methods for the final application such as: user watering crops, rain tracking, user request supplies, admin create new crop type.\
 • Documentation: Created UML, ER and MEnu diagrams for our final documentation. 
 
-We used Gitlab for version control and code sharing. This was through the Queen's University Gitlab: \
-As it was our first time using Git we had a few issues with the main branch and moved to "Fixed Branch" instead.
+We used Gitlab for version control and code sharing. This was through the Queen's University EEECS Gitlab which I am unfortunately unable to download for commit history.
 
